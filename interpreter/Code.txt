@@ -1,0 +1,20 @@
+print "Write number"
+scan number
+if num == 1
+{
+	print 1
+}
+else
+{
+	print 1
+	print 1
+	fst = 1
+	scd = 1
+	for i = 1 to number
+	{
+		temporary = scd + fst
+		fst = scd
+		scd = temporary
+		print temporary
+	}
+}
