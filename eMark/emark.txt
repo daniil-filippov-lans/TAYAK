@@ -1,0 +1,13 @@
+<block columns="1" height="21" bgcolor="3">
+	<column rows="3" width="10" textcolor="0" halign="right" bgcolor="0">
+		<row height="7" bgcolor="15" valign="top" textcolor="0" >
+		Ru
+		</row>
+		<row height="7" bgcolor="1" valign="center" textcolor="15" >
+		SSI
+		</row>
+		<row height="7" bgcolor="4" valign="bottom" textcolor="15" >
+		A
+		</row>
+	</column>
+</block>
