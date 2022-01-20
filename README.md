@@ -7,7 +7,7 @@
 	<p>source: euphoretic/calculatorjs</p>
   </li>
   <li>
-    <h2>dfa</h2>
+    <h2>DFA</h2>
     <p>Deterministic finite automaton on C#</p>
   </li>
   <li>
